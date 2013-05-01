@@ -5,6 +5,8 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'simple_form'
 gem 'paperclip'
+gem 'aws-sdk'
+
 group :production do
   gem 'pg'
 end
